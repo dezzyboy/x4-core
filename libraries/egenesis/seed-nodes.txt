@@ -1,0 +1,2 @@
+"node-tokyo.x4trade.org:11010",       // x4trade     (Canada)
+"node-tokyo.x4trade.org:11015",       // x4trade      (Canada)
